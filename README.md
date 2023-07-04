@@ -75,4 +75,4 @@ It also works if you do it from a branch that has an open PR on `main`.
 
 -   [Joseph Garrone](https://github.com/garronej)
 -   [Dylan DECRULLE](https://github.com/ddecrulle) - Insee
--   [Dimitri POSTOLOV](https://github.com/B2o5T) - [Nextra](https://nextra.site) maintainer
+-   [Dimitri POSTOLOV](https://github.com/B2o5T) - Main [Nextra](https://nextra.site) maintainer
